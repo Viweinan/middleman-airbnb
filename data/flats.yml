@@ -1,0 +1,14 @@
+Viweinan:
+  name: "Viktor' home"
+  description: "Charming room in la Panne"
+  city_name: "La Panne, Belgium"
+  city_slug: "la panne"
+  wifi: false
+  rating: 5
+Kloshi:
+  name: "Andrzej's home"
+  description: Small flat in Charleroi
+  city_name: "Charleroi, Belgium"
+  city_slug: "belgium"
+  wifi: true
+  rating: 3
